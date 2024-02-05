@@ -1,7 +1,7 @@
 ## Linux-Operation-System-Kernel
 
 ### Homework1: Linux Kernel Upgrade
-安裝任一個Linux發行版本(根據所安裝的Linux系統中的kernel版本下載相同major版本的source code並編譯安裝)，安裝完後登入系統執行，cat /etc/*rele* ; uname -a
+安裝任一個Linux發行版本(根據所安裝的Linux系統中的kernel版本下載相同major版本的source code並編譯安裝)，安裝完後登入系統執行，cat /etc/\*rele\* ; uname -a
 
 ### Homework2: Kernel Module
 分別 編譯並載入  hello 與   hellop 這兩個kernel module ，並另外撰寫一個hellop3 可傳入 整數a與整數b和字串c 在載入時透過printk印出a*b次的c字串
