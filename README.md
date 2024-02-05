@@ -34,7 +34,7 @@ PID會收到SIGINT的signal
    |   +-- a (file)  
    |   +-- b (file)  
    |  
-   + output (dir)  
+   \+ output (dir)  
        |  
        +-- add (file)  
        +-- sub (file)  
